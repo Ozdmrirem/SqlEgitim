@@ -20,3 +20,4 @@
 
 --Kitaplar tablosundan sayfa sutununu silmek icin
 --Alter table Kitaplar drop column Sayfa
+
